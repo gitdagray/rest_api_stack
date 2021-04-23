@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/gitdagray/rest_api_stack.git"
   },
   "scripts": {
     "start": "node server.js",
