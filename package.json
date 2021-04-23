@@ -1,5 +1,5 @@
 {
-  "name": "mongo_rest_api",
+  "name": "rest_api_stack",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
